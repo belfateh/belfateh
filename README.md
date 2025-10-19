@@ -1,12 +1,13 @@
 <h1>Hi 👋, I'm Ayman Belfateh</h1>
 
-I'm passionate about <strong>Software engineering</strong> and <strong>Cybersecurity</strong>  . I love to learn and contribute in any and every possible way.
+I'm passionate about <strong>Software engineering</strong> and <strong>Cybersecurity</strong>
+I love to learn and contribute in any and every possible way.
 
 
 * 🌱 18 years old
 * 🛰️ Telecommunications Student
-* 👨‍💻 All of my projects are available at <a href="https://github.com/belfateh?tab=repositories&type=source" target="_blank"> my repositories </a>.
-* 📫 You can reach me out on <a href="https://www.linkedin.com/in/belfateh/" target="_blank"><strong>LinkedIn</strong></a>.
+* 👨‍💻 All of my projects are available at <a href="https://github.com/belfateh?tab=repositories&type=source" target="_blank"> my repositories </a>
+* 📫 You can reach me out on <a href="https://www.linkedin.com/in/belfateh/" target="_blank"><strong>LinkedIn</strong></a>
 
 
 
