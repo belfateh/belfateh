@@ -6,7 +6,7 @@ I love to learn and contribute in any and every possible way.
 
 * 🌱 18 years old
 * 🛰️ Telecommunications Student
-* 👨‍💻 All of my projects are available at <a href="https://github.com/belfateh?tab=repositories&type=source" target="_blank"> my repositories </a>
+* 👨‍💻 All of my projects are available at <a href="https://github.com/belfateh?tab=repositories&type=source" target="_blank"> <strong>my repositories</strong </a>
 * 📫 You can reach me out on <a href="https://www.linkedin.com/in/belfateh/" target="_blank"><strong>LinkedIn</strong></a>
 
 
