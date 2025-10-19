@@ -5,8 +5,9 @@ I'm passionate about <strong>Software engineering</strong> and <strong>Cybersecu
 
 * 🌱 18 years old
 * 🛰️ Telecommunications Student
-* 👨‍💻 All of my projects are available at <a href="https://github.com/belfateh?tab=repositories&type=source" target="_blank"> my repositories</a>.
-* 📫 You can reach me out on <a href="https://www.linkedin.com/in/belfateh/" target="_blank"><strong>LinkedIn</strong>
+* 👨‍💻 All of my projects are available at <a href="https://github.com/belfateh?tab=repositories&type=source" target="_blank"> my repositories </a>.
+* 📫 You can reach me out on <a href="https://www.linkedin.com/in/belfateh/" target="_blank"><strong>LinkedIn</strong></a>.
+
 
 
 <h2>🚀 Languages and Tools I Use</h2>
